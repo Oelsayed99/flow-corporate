@@ -33,7 +33,7 @@
                     </a>
                 </div>
             </div>
-            <div class="relative order-1 lg:order-2 h-full min-h-[400px]">
+            <div class="relative order-1 lg:order-2 w-full">
                 <div class="absolute inset-0 bg-[#553f2f]/5 rounded-2xl transform rotate-3 translate-x-2 translate-y-2"></div>
                 <div class="relative w-full h-full aspect-[4/3] rounded-2xl overflow-hidden shadow-md group">
                     <img alt="Construction site" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAxXHSoCt4myf9Ja6MjZVkJo8RYY2eKAtUhI9UZqfamdb6QFFwNaJQKflRgZ6kgaxQcVwivwsd5tOfNQKZcuXyOxpyO4ZmJEN5V6h1bAwIrpcbiX5eYwf7GNtbWq8MAcC4hZJqVlG5MzLFPPIpH4nNyLcipNafL4LdkpuiTX7drNslbF6VFH3JKOAL4MpUx-wIbsmNOFOfUPKJUfCUL2a__WporWGYmZgZgLpDD_PSPfrskLya0Va6qqhHAgjbya5-RjV61HGKxRek"/>
@@ -45,7 +45,7 @@
     <!-- Section 2: Interior Design -->
     <section class="py-12 px-6 md:px-10 lg:px-20 bg-white">
         <div class="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
-            <div class="relative h-full min-h-[400px]">
+            <div class="relative w-full">
                 <div class="absolute inset-0 bg-[#c8af9e]/20 rounded-2xl transform -rotate-2 -translate-x-2 translate-y-2"></div>
                 <div class="relative w-full h-full aspect-[4/3] rounded-2xl overflow-hidden shadow-md group">
                     <img alt="Modern luxury living room" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDcqAUhVdCLZfXL00QxUbMCkhw0r0g9llOfLgMBD6GNo3aIbz0SuKyp431Lxdb-ucciP2dAKe5rubl4zVUQuMd5oLWyjWaj8ojwT1ttpVlZ65dJaZC1VDIPDnzHkZvcQSL9EuARM437LW1lJ_QZw1djnjQ6pTvg9rrJVBB9ixJVn-nLUEFSY_SEgV7ZVGCSymQUYuTthraUAzs2GWPxJk7zF7c8FSTtEMxx6Z9f6aq8q5iJdVCrP6wR6h27Tgz2fXLiN-PePcHPHuw"/>

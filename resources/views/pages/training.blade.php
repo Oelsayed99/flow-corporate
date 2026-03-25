@@ -10,7 +10,7 @@
     <section class="py-24 bg-white" id="curriculum">
         <div class="max-w-[1280px] mx-auto px-6">
             <div class="flex flex-col md:flex-row gap-12 md:gap-20 items-start">
-                <div class="md:w-1/3 sticky top-24">
+                <div class="md:w-1/3 md:sticky md:top-24">
                     <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-6 leading-tight">
                         {{ __('messages.academy_standard') ?? 'The Academy Standard' }}
                     </h2>
