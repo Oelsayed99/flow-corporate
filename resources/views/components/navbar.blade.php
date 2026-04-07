@@ -7,7 +7,7 @@
             </a>
             
             <!-- Desktop Menu -->
-            <div class="hidden md:flex items-center space-x-8 rtl:space-x-reverse">
+            <div class="hidden md:flex items-center gap-8">
                 <a class="text-sm font-medium text-[#553f2f] hover:text-[#c8af9e] transition-colors" href="{{ route('home') }}">{{ __('messages.nav_home') ?? 'Home' }}</a>
                 <a class="text-sm font-medium text-[#553f2f] hover:text-[#c8af9e] transition-colors" href="{{ route('services') }}">{{ __('messages.nav_services') ?? 'Services' }}</a>
                 <a class="text-sm font-medium text-[#553f2f] hover:text-[#c8af9e] transition-colors" href="{{ route('gallery') }}">{{ __('messages.nav_projects') ?? 'Projects' }}</a>
@@ -17,13 +17,13 @@
 
             <!-- Right Actions -->
             <div class="flex items-center gap-4">
-                <div class="text-sm font-semibold text-[#553f2f] border-e border-gray-200 pe-4">
+                <div class="flex items-center shrink-0 text-sm font-semibold text-[#553f2f] border-e border-gray-200 px-4">
                     <a href="{{ route('locale.switch', 'en') }}" class="{{ App::getLocale() == 'en' ? 'text-[#c8af9e]' : 'hover:text-[#c8af9e] transition-colors' }}">EN</a>
-                    <span class="text-gray-300 mx-1 tablet:hidden">|</span>
+                    <span class="text-gray-300 mx-1">|</span>
                     <a href="{{ route('locale.switch', 'ar') }}" class="{{ App::getLocale() == 'ar' ? 'text-[#c8af9e]' : 'hover:text-[#c8af9e] transition-colors' }}">AR</a>
                 </div>
                 
-                <a href="{{ route('contact') }}" class="hidden md:flex items-center justify-center h-10 px-6 rounded-lg bg-[#553f2f] text-white text-sm font-bold hover:bg-opacity-90 transition-all shadow-md">
+                <a href="{{ route('contact') }}" class="shrink-0 hidden md:flex items-center justify-center h-10 px-6 rounded-lg bg-[#553f2f] text-white text-sm font-bold hover:bg-opacity-90 transition-all shadow-md">
                     {{ __('messages.request_consultation') ?? 'Request Consultation' }}
                 </a>
 

@@ -31,11 +31,19 @@
                     </li>
                     <li class="flex items-center gap-3">
                         <span class="material-symbols-outlined text-[#c8af9e] text-sm">call</span>
-                        <span dir="ltr">+971 4 123 4567</span>
+                        <a href="https://wa.me/201092449447" target="_blank" dir="ltr" class="hover:text-white transition-colors">+2010 92449447</a>
                     </li>
                     <li class="flex items-center gap-3">
                         <span class="material-symbols-outlined text-[#c8af9e] text-sm">mail</span>
-                        <span>info@flow-engineering.com</span>
+                        <span>info@flow-egy.com</span>
+                    </li>
+                    <li class="flex items-center gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 fill-current text-[#c8af9e]" viewBox="0 0 24 24"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
+                        <a href="https://www.facebook.com/share/1GxXmPV1Y1/?mibextid=wwXIfr" target="_blank" class="hover:text-white transition-colors">Facebook</a>
+                    </li>
+                    <li class="flex items-center gap-3">
+                        <span class="material-symbols-outlined text-[#c8af9e] text-sm">photo_camera</span>
+                        <a href="https://www.instagram.com/flow_endless_ideas?igsh=MWQwdWRwNXpweXM3ZQ==&utm_source=ig_contact_invite" target="_blank" class="hover:text-white transition-colors">Instagram</a>
                     </li>
                 </ul>
             </div>
