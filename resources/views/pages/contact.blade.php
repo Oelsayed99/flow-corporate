@@ -9,9 +9,9 @@
                     <p class="text-slate-600 text-sm">1234 Skyline Avenue,<br/>Dubai, UAE</p>
                 </div>
                 <div class="p-6 bg-[#f9f8f8] rounded-xl shadow-sm text-center">
-                    <span class="material-symbols-outlined text-[#25D366] text-4xl mb-4">chat</span>
+                    <span class="material-symbols-outlined text-[#c8af9e] text-4xl mb-4">chat</span>
                     <h3 class="font-bold text-[#553f2f] mb-2">{{ __('messages.whatsapp') ?? 'WhatsApp' }}</h3>
-                    <a href="https://wa.me/201092449447" target="_blank" class="text-slate-600 text-sm hover:text-[#25D366] transition-colors font-semibold" dir="ltr">+2010 92449447</a>
+                    <a href="https://wa.me/201092449447" target="_blank" class="text-slate-600 text-sm hover:text-[#c8af9e] transition-colors font-semibold" dir="ltr">+2010 92449447</a>
                 </div>
                 <div class="p-6 bg-[#f9f8f8] rounded-xl shadow-sm text-center">
                     <span class="material-symbols-outlined text-[#c8af9e] text-4xl mb-4">mail</span>
@@ -19,14 +19,14 @@
                     <p class="text-slate-600 text-sm">info@flow-egy.com</p>
                 </div>
                 <div class="p-6 bg-[#f9f8f8] rounded-xl shadow-sm text-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 mb-4 fill-current text-[#1877F2] mx-auto" viewBox="0 0 24 24"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-9 h-9 mb-4 fill-current text-[#c8af9e] mx-auto" viewBox="0 0 24 24"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
                     <h3 class="font-bold text-[#553f2f] mb-2">{{ __('messages.facebook') ?? 'Facebook' }}</h3>
-                    <a href="https://www.facebook.com/share/1GxXmPV1Y1/?mibextid=wwXIfr" target="_blank" class="text-slate-600 text-sm hover:text-[#1877F2] transition-colors font-semibold">Flow Engineering</a>
+                    <a href="https://www.facebook.com/share/1GxXmPV1Y1/?mibextid=wwXIfr" target="_blank" class="text-slate-600 text-sm hover:text-[#c8af9e] transition-colors font-semibold">Flow Engineering</a>
                 </div>
                 <div class="p-6 bg-[#f9f8f8] rounded-xl shadow-sm text-center">
-                    <span class="material-symbols-outlined text-[#E1306C] text-4xl mb-4">photo_camera</span>
+                    <span class="material-symbols-outlined text-[#c8af9e] text-4xl mb-4">photo_camera</span>
                     <h3 class="font-bold text-[#553f2f] mb-2">{{ __('messages.instagram') ?? 'Instagram' }}</h3>
-                    <a href="https://www.instagram.com/flow_endless_ideas?igsh=MWQwdWRwNXpweXM3ZQ==&utm_source=ig_contact_invite" target="_blank" class="text-slate-600 text-sm hover:text-[#E1306C] transition-colors font-semibold">@flow_endless_ideas</a>
+                    <a href="https://www.instagram.com/flow_endless_ideas?igsh=MWQwdWRwNXpweXM3ZQ==&utm_source=ig_contact_invite" target="_blank" class="text-slate-600 text-sm hover:text-[#c8af9e] transition-colors font-semibold">@flow_endless_ideas</a>
                 </div>
             </div>
         </div>
